@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543772738 source:c:\users\rodrigo\desktop\narutogame\resources.rc
+
+1543797136 source:c:\users\rodrigo\desktop\narutogame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1543953801 source:c:\users\rodrigo\desktop\narutogame\interfaces.c
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
+1543785662 source:c:\users\rodrigo\desktop\narutogame\designs.c
+
